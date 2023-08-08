@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Connectify](https://github.com/Thanisha23/Connectify)
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **Nextjs**
 
 - 💬 Ask me about **web development**
 
