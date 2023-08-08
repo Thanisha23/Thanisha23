@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **thanishab77@gmail.com**
 
-- ⚡ Fun fact **🚀 Coding Dreams into Digital Realities | Full Stack Explorer 💡🌐**
+- **🚀 Coding Dreams into Digital Realities | Full Stack Explorer 💡🌐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
