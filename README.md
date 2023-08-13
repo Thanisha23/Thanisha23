@@ -1,4 +1,4 @@
-<div style="height: 1rem; width: 100%;">
+<div style="height: 3rem; width: 100%;">
   <img src="./banner.png" alt="banner" width="100%" height="100%" style="margin: 0; padding-top: 20px;">
 
 <h1 align="center">Hi 👋, I'm Thanisha</h1>
