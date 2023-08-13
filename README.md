@@ -1,9 +1,7 @@
 <div style="height: 3rem; width: 100%;">
   <img src="./banner.png" alt="banner" width="100%" height="100%" style="margin: 0; padding-top: 20px;">
-
 <h1 align="center">Hi 👋, I'm Thanisha</h1>
 </div>
-
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/thanisha_b" target="blank"><img src="https://img.shields.io/twitter/follow/thanisha_b?logo=twitter&style=for-the-badge" alt="thanisha_b" /></a> </p>
