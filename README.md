@@ -1,4 +1,3 @@
-![Hey folks! Myself Thanisha](./banner.png)
 <h1 align="center">Hi 👋, I'm Thanisha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
